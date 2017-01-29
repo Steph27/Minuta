@@ -1,4 +1,4 @@
-# Prueba parte 2
+# Modificado por Ronald
 
 import sys
 
