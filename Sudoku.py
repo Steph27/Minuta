@@ -1,4 +1,4 @@
-# Prueba parte 2
+# Prueba parte 2 Stephanie
 
 import sys
 
