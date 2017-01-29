@@ -1,12 +1,4 @@
-#
-# Archivo: Sudoku.py
-#
-# Descripción: Programa que dado un tablero de sudoku por resolver, completa
-#              el sudoku.
-#
-# Motivo: Ocio.
-#
-# Fecha: 08/01/2016
+# Prueba parte 2
 
 import sys
 
